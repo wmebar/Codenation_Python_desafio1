@@ -1,0 +1,18 @@
+============================= test session starts ==============================
+platform linux -- Python 3.7.3, pytest-4.3.1, py-1.8.0, pluggy-0.9.0 -- /home/wagner/aceleradev/bin/python
+cachedir: .pytest_cache
+rootdir: /home/wagner/codenation/python-5, inifile:
+plugins: remotedata-0.3.1, openfiles-0.3.2, doctestplus-0.3.0, arraydiff-0.3
+collecting ... collected 8 items
+
+test_submit.py::TestChallenge1::test_len PASSED                          [ 12%]
+test_submit.py::TestChallenge1::test_1 PASSED                            [ 25%]
+test_submit.py::TestChallenge1::test_2 PASSED                            [ 37%]
+test_submit.py::TestChallenge1::test_3 PASSED                            [ 50%]
+test_submit.py::TestChallenge1::test_4 PASSED                            [ 62%]
+test_submit.py::TestChallenge1::test_5 PASSED                            [ 75%]
+test_submit.py::TestChallenge1::test_6 PASSED                            [ 87%]
+test_submit.py::TestChallenge1::test_7 PASSED                            [100%]
+
+------- generated xml file: /home/wagner/codenation/python-5/output.xml --------
+=========================== 8 passed in 0.37 seconds ===========================
